@@ -19,7 +19,7 @@ This study was carried out within the scope of the graduation project of Cankaya
 ![Screenshot](SSA3.png)
 ## Event
 ![Screenshot](SSA4.png)
-
+## Chat
 ![Screenshot](SSA5.png)
-
+## Settings
 ![Screenshot](SSA6.png)
