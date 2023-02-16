@@ -13,11 +13,11 @@ This study was carried out within the scope of the graduation project of Cankaya
 
 ## Create new user
 ![Screenshot](SSA1.png)
-
+## Sign in
 ![Screenshot](SSA2.png)
-
+## Feedback
 ![Screenshot](SSA3.png)
-
+## Event
 ![Screenshot](SSA4.png)
 
 ![Screenshot](SSA5.png)
