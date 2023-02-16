@@ -9,3 +9,7 @@ It is a platform where people can see the appropriate environments and collectiv
 ## INRODUCTION
 
 This study was carried out within the scope of the graduation project of Cankaya University Computer Engineering Department. The main purpose of the study is to provide benefit to the students by showing our programming skills. We have put forward the idea of this project based on the difficulties we face in our student life. The program will save students time and share information. You now have a common goal with students you do not know. To understand the course and to pass with good grades.
+
+
+
+![Screenshot](SSA1.png)
